@@ -1,6 +1,7 @@
 {
   "name": "@crafts/test-package",
   "version": "1.0.0",
+  "private": false,
   "description": "Meant to test differnt npm things",
   "main": "index.js",
   "scripts": {
